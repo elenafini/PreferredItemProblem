@@ -1,0 +1,3 @@
+C:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/build/CMakeFiles/PreferredElementCPPCase.dir
+C:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/build/CMakeFiles/edit_cache.dir
+C:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/build/CMakeFiles/rebuild_cache.dir

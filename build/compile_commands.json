@@ -1,0 +1,37 @@
+[
+{
+  "directory": "C:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/src -g -std=c++17 -o CMakeFiles\\PreferredElementCPPCase.dir\\src\\main.cpp.obj -c C:\\Users\\elena\\Desktop\\CPP\\PreferredElementCPPCase\\code\\src\\main.cpp",
+  "file": "C:\\Users\\elena\\Desktop\\CPP\\PreferredElementCPPCase\\code\\src\\main.cpp"
+},
+{
+  "directory": "C:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/src -g -std=c++17 -o CMakeFiles\\PreferredElementCPPCase.dir\\src\\preferredItem.cpp.obj -c C:\\Users\\elena\\Desktop\\CPP\\PreferredElementCPPCase\\code\\src\\preferredItem.cpp",
+  "file": "C:\\Users\\elena\\Desktop\\CPP\\PreferredElementCPPCase\\code\\src\\preferredItem.cpp"
+},
+{
+  "directory": "C:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/src -g -std=c++17 -o CMakeFiles\\PreferredElementCPPCase.dir\\src\\testCases.cpp.obj -c C:\\Users\\elena\\Desktop\\CPP\\PreferredElementCPPCase\\code\\src\\testCases.cpp",
+  "file": "C:\\Users\\elena\\Desktop\\CPP\\PreferredElementCPPCase\\code\\src\\testCases.cpp"
+},
+{
+  "directory": "C:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/src -g -std=c++17 -o CMakeFiles\\PreferredElementCPPCase.dir\\src\\brick.cpp.obj -c C:\\Users\\elena\\Desktop\\CPP\\PreferredElementCPPCase\\code\\src\\brick.cpp",
+  "file": "C:\\Users\\elena\\Desktop\\CPP\\PreferredElementCPPCase\\code\\src\\brick.cpp"
+},
+{
+  "directory": "C:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/src -g -std=c++17 -o CMakeFiles\\PreferredElementCPPCase.dir\\src\\item.cpp.obj -c C:\\Users\\elena\\Desktop\\CPP\\PreferredElementCPPCase\\code\\src\\item.cpp",
+  "file": "C:\\Users\\elena\\Desktop\\CPP\\PreferredElementCPPCase\\code\\src\\item.cpp"
+},
+{
+  "directory": "C:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/src -g -std=c++17 -o CMakeFiles\\PreferredElementCPPCase.dir\\src\\masterData.cpp.obj -c C:\\Users\\elena\\Desktop\\CPP\\PreferredElementCPPCase\\code\\src\\masterData.cpp",
+  "file": "C:\\Users\\elena\\Desktop\\CPP\\PreferredElementCPPCase\\code\\src\\masterData.cpp"
+},
+{
+  "directory": "C:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/elena/Desktop/CPP/PreferredElementCPPCase/code/src -g -std=c++17 -o CMakeFiles\\PreferredElementCPPCase.dir\\src\\serviceFunctions.cpp.obj -c C:\\Users\\elena\\Desktop\\CPP\\PreferredElementCPPCase\\code\\src\\serviceFunctions.cpp",
+  "file": "C:\\Users\\elena\\Desktop\\CPP\\PreferredElementCPPCase\\code\\src\\serviceFunctions.cpp"
+}
+]

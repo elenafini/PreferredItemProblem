@@ -1,0 +1,19 @@
+# ninja log v5
+30	773	7001417478380049	CMakeFiles/PreferredElementCPPCase.dir/src/item.cpp.obj	2ae1b58e077d50ef
+6	191	7001417546298134	build.ninja	a5eaa2acbc4df8e5
+16	1480	7001417485421225	CMakeFiles/PreferredElementCPPCase.dir/src/testCases.cpp.obj	fe656c564c936e4d
+19	15853	7000950490955188	CMakeFiles/PreferredElementCPPCase.dir/src/main.cpp.obj	5ce98adce5cd7135
+2960	27930	7001412960268007	PreferredElementCPPCase.exe	78437fbbc9bcf414
+50	236	7000948495005466	CMakeFiles/PreferredElementCPPCase.dir/src/masterData.cpp.obj	c6e66f4bcf16390b
+21	403	7001417474689912	CMakeFiles/PreferredElementCPPCase.dir/src/brick.cpp.obj	f41a9881b09ab2f9
+16	35	0	clean	9c4b4372737ab8da
+11	2168	7001417492362659	CMakeFiles/PreferredElementCPPCase.dir/src/preferredItem.cpp.obj	2fb9ae777ec84e58
+37	820	7001417478868740	CMakeFiles/PreferredElementCPPCase.dir/src/serviceFunctions.cpp.obj	61cee148f06bf334
+38	158	7001417551940200	CMakeFiles/PreferredElementCPPCase.dir/src/masterData.cpp.obj	c6e66f4bcf16390b
+28	492	7001417555221423	CMakeFiles/PreferredElementCPPCase.dir/src/brick.cpp.obj	f41a9881b09ab2f9
+32	1023	7001417560587081	CMakeFiles/PreferredElementCPPCase.dir/src/item.cpp.obj	2ae1b58e077d50ef
+44	1083	7001417561215416	CMakeFiles/PreferredElementCPPCase.dir/src/serviceFunctions.cpp.obj	61cee148f06bf334
+23	1821	7001417568585800	CMakeFiles/PreferredElementCPPCase.dir/src/testCases.cpp.obj	fe656c564c936e4d
+19	2474	7001417575118580	CMakeFiles/PreferredElementCPPCase.dir/src/preferredItem.cpp.obj	2fb9ae777ec84e58
+15	15154	7001417701673076	CMakeFiles/PreferredElementCPPCase.dir/src/main.cpp.obj	5ce98adce5cd7135
+15154	38899	7001417939276291	PreferredElementCPPCase.exe	78437fbbc9bcf414
